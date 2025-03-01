@@ -2,7 +2,7 @@
 
 -This is my submission for Quarter3-FA3.
 
--This is a CS Formative Assessment 2 submission for third-quarter FA2 about Modules 8 and 9.
+-This is a CS Formative Assessment 3 submission for third-quarter FA3 about Modules 8 and 9.
 
 -The topics covered in this activity include the application of JavaScript, specifically variable declaration and manipulation, user interaction methods, as well as mathematical operations.
 
